@@ -1,0 +1,12 @@
+{
+  "name": "NODE-LOADBALANCER",
+  "version": "0.0.1",
+  "author": "harish golla",
+  "dependencies": {
+    "http-proxy":"1.8.1"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
